@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@500&display=swap');
 .case{
     
 
@@ -12,6 +13,8 @@
 .piece{
     background-color:black;
     color: white;
+    font-weight: bold;
+    font-family: 'Ubuntu', sans-serif;
     
 }
 
@@ -46,4 +49,8 @@ h1{
     font-size :3em;
     font-family: 'Roboto Mono', monospace;
     font-weight:bold;
+}
+
+#btn{
+    font-family: 'Ubuntu', sans-serif;
 }

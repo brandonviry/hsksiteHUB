@@ -6,6 +6,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Bienvenue</title>
     <link rel="stylesheet" href="css/grille.css">
+    <style type="text/css">
+      
+      </style>
 </head>
 <body>
 <section id="section" style="position:absolute;"> 
@@ -20,5 +23,6 @@
   <script type="text/javascript" src="js/grille.js"></script>
   <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
   <script type="text/javascript" src="js/cmd.js" ></script>
+  <script type="text/javascript" src="js/bk.js"></script>
 </body>
 </html>
